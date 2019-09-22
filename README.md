@@ -38,7 +38,7 @@ Each year we conduct the summer program in data science to train undergraduate s
 4.8 Practice project 03 (Dog bread classification) <br>
 4.9 Assignment 04 <br>
 ## 5. Directions for the group research projects (2 weeks)
-5.1 Doog breed classification (image classification using CNN and ResNet50) <br>
+5.1 Dog breed classification (image classification using CNN and ResNet50) <br>
 5.2 Food type classification (image classification using CNN and InceptionV3) <br>
 
 
