@@ -8,35 +8,37 @@ Each year we conduct the summer program in data science to train undergraduate s
 ## 1. Python Programing (1 week)
 1.1 Introduction to Python programing <br>
 1.2 Data types and operators <br>
-1.3 Control flow
-1.4 Functions
-1.5 Using modules and packages
-1.6 Assignment 01
+1.3 Control flow <br> 
+1.4 Functions <br>
+1.5 Using modules and packages <br>
+1.6 Assignment 01 <br>
 ## 2. Introduction to Data (1/2 week)
-2.1 Data visualization
-2.2 Structured and Un-structured data
-2.3 Data types in statistics
-2.4 Statistical methods
-2.5 Data pre-processing
-2.6 Assignment 02
+2.1 Data visualization <br>
+2.2 Structured and Un-structured data <br>
+2.3 Data types in statistics <br>
+2.4 Statistical methods <br>
+2.5 Data pre-processing <br>
+2.6 Assignment 02 <br>
 ## 3. Introduction to machine learning (2 1/2 weeks)
-3.1 What is machine learning?
-3.1 Naive Bayes
-3.2 Support vector machines
-3.3 Decision trees
-3.4 Categorical vs Regression analysis
-3.5 Unsupervised learning
-3.6 Assignment 03
+3.1 What is machine learning? <br>
+3.1 Naive Bayes <br>
+3.2 Support vector machines <br>
+3.3 Decision trees <br>
+3.4 Categorical vs Regression analysis <br>
+3.5 Unsupervised learning <br>
+3.6 Assignment 03 <br>
 ## 4. Deep learning (4 weeks)
-4.1 Introduction
-4.2 Basics of TensorFlow
-4.3 Introduction to deep neural networks
-4.4 Convolutional neural networks
-4.5 Transfer learning
-4.6 Practice project 01 (California housing price prediction)
-4.7 Practice project 02 (MNIST data classification)
-4.8 Practice project 03 (Dog bread classification)
-4.9 Assignment 04
+4.1 Introduction <br>
+4.2 Basics of TensorFlow <br>
+4.3 Introduction to deep neural networks <br>
+4.4 Convolutional neural networks <br>
+4.5 Transfer learning <br>
+4.6 Practice project 01 (California housing price prediction) <br>
+4.7 Practice project 02 (MNIST data classification) <br>
+4.8 Practice project 03 (Dog bread classification) <br>
+4.9 Assignment 04 <br>
 ## 5. Directions for the group research projects (2 weeks)
+5.1 Doog breed classification (image classification using CNN and ResNet50) <br>
+5.2 Food type classification (image classification using CNN and InceptionV3) <br>
 
 
