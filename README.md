@@ -6,8 +6,8 @@ Each year we conduct the summer program in data science to train undergraduate s
 ## Teaching Plan (for 2019 program)
 
 ## 1. Python Programing (1 week)
-1.1 Introduction to Python programing
-1.2 Data types and operators
+1.1 Introduction to Python programing <br>
+1.2 Data types and operators <br>
 1.3 Control flow
 1.4 Functions
 1.5 Using modules and packages
