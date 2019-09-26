@@ -1,3 +1,13 @@
+## If you experience difficulties when opening files, please follow the instructions given below.
+1. Go to https://nbviewer.jupyter.org/
+2. Paste the address for the selected .ipynb notebook in the viewer box and hit "Go"
+   Address has the form, (example)
+   https://github.com/nalinda05kl/TSU-summer-program/blob/master/Modules_and_Packages/Extra_Work_note_book_01.ipynb
+
+OR read the FAQs at https://nbviewer.jupyter.org/faq
+
+Sorry for the inconvenience!
+__________________________________________________________________________________________________________
 ## TSU-summer-program
 Teaching materials for the Summer Program in Data Science at Texas Southern University
 
