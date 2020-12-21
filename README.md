@@ -10,6 +10,7 @@ Sorry for the inconvenience!
 __________________________________________________________________________________________________________
 ## TSU-summer-program
 Teaching materials for the Summer Program in Data Science at Texas Southern University
+(Instructor: Dr. Nalinda Kulathunga, Supervison: Dr. Daniel Vrinceanu, Dr. Yunjiao Wang)
 
 Each year we conduct the summer program in data science to train undergraduate students with important tools used in data science and machine learning. The teaching plan is given below. 
 
